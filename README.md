@@ -1,6 +1,33 @@
 # StatisticsOfChineseVirtualSingers
 Statistics of Chinese Virtual Singers，中文虚拟歌手调查。主要用于发布中文虚拟歌手领域有关数据。
 
+## 2020与2021年统计月报数据
+
+### 概况
+
+2020年、2021年共24个月统计月报的数据，包括以下 18 位中文 VOCALOID / Synthesizer V 虚拟歌手的统计数据：
+
+```
+洛天依、言和、乐正绫、乐正龙牙、徵羽摩柯、墨清弦、星尘、海伊、苍穹、赤羽、诗岸、星尘Minus、牧心、艾可、心华、悦成、章楚楚、初音未来
+```
+
+以及 中文VOCALOID、中文 Synthesizer V、Vsinger、五维介质的统计数据。
+
+统计数据包括当月投稿数、当月投稿的总播放量、当月投稿的最高播放量、当月投稿中播放量过万的个数共 4 个字段。
+
+### 格式
+
+提供了 CSV 格式和 JSON 格式两种格式。
+
+### 来源
+
+原始数据来自天钿Daily
+
+### 参见
+
+* 统计月报专栏：https://www.bilibili.com/read/readlist/rl68394
+* 天钿Daily：https://tdd.bunnyxt.com
+
 ## 中文虚拟歌手领域问卷报告
 
 ### 概况
